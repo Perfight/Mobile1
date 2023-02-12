@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tea Clicker</string>
+    <string name="_80">0</string>
+    <string name="Tea_Clicker">Собрано рублей на чаек</string>
+    <string name="add_rub_on_tea">Добавить рубль на чай</string>
+    <string name="todo">TODO</string>
+</resources>
