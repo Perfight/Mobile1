@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         if(savedInstanceState == null){
-            Toast.makeText(this, "Пиветствую, дорогой любитель чая <3", Toast.LENGTH_LONG).show();
+            Toast.makeText(this, "Приветствую, дорогой любитель чая <3", Toast.LENGTH_LONG).show();
         }
     }
 
