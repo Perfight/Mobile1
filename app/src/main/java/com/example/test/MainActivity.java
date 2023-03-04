@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onSaveInstanceState(@NonNull Bundle outState) {
         super.onSaveInstanceState(outState);
         outState.putInt(KEY_COUNTER, counter);
+        Toast.makeText(this, "Приятного чаепития, возвращайся ещё)", Toast.LENGTH_LONG).show();
     }
 
     @SuppressLint("SetTextI18n")
